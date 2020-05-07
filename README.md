@@ -1,5 +1,8 @@
 [![NPM](https://nodei.co/npm/number-to-chinese-words.png)](https://www.npmjs.com/package/number-to-chinese-words)
 
+# Change logs
+2020/05/07 默认改为简体中文
+
 # number-to-chinese-words
 Convert a number to chinese words. 由數字轉為中文數目
 
